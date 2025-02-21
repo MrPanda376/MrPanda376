@@ -16,6 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=MrPanda376&theme=onedark&no-frame=true&no-bg=false&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrPanda376&icon=2&color=7)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=MrPanda376&color=orange&style=flat&abbreviated=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
