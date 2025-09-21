@@ -1,5 +1,5 @@
 # 💫 About Me:
-🙋‍♂️I'm a 16 y/o student<br>📍Veneto, Italy<br>📚I'm currently studying at ITI Francesco Severi in Padua<br>💻I'm interested in coding and cybersecurity
+🙋‍♂️I'm a 17 y/o student<br>📍Veneto, Italy<br>📚I'm currently studying at ITI Francesco Severi in Padua<br>💻I'm interested in coding and cybersecurity
 
 
 ## 🌐 Socials:
